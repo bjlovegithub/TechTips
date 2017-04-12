@@ -4,3 +4,5 @@
 - invokevirtual is for invoking methods on concrete class, like ArrayList<Integer>.size()
 - invokeinterface is for invoking methods on interfaces, like List<Integer>.size()
 - invokedynamic: http://mydailyjava.blogspot.com/2015/03/dismantling-invokedynamic.html
+
+## PECS - “Producer Extends，Consumer Super”, (http://www.cnblogs.com/wangmingshun/p/5389341.html)[ref]
